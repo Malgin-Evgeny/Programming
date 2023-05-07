@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CalculatorVacation/CalculatorVacation.iml" filepath="$PROJECT_DIR$/CalculatorVacation/CalculatorVacation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Programming.iml" filepath="$PROJECT_DIR$/.idea/Programming.iml" />
     </modules>
   </component>
 </project>
