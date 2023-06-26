@@ -15,8 +15,8 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-context:6.0.8" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:6.0.8" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:6.0.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:6.0.8" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:6.0.8" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:6.0.8" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-expression:6.0.8" level="project" />
   </component>
 </module>
